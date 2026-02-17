@@ -1,3 +1,3 @@
 # ARTI-308-Machine-Learning
 Machine Learning
-lab3
+lab3  Exploratory Data Analysis (EDA)
